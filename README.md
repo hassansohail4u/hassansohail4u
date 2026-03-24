@@ -50,9 +50,6 @@ I have built a real-world platform that handled 1,300+ user registrations and ma
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hassansohail4u&icon=1&color=0)](https://visitcount.itsvg.in)
-
----
 
 <p align="center">
 ✨ Always learning • Always building • Always improving ✨
