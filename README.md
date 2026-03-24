@@ -34,3 +34,10 @@ I have built a real-world platform that handled 1,300+ user registrations and ma
 <p align="center">
 ✨ Always learning • Always building • Always improving ✨
 </p>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hassansohail4u&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hassansohail4u&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassansohail4u&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
