@@ -34,10 +34,6 @@ I have built a real-world platform that handled 1,300+ user registrations and ma
 
 ---
 
-<p align="center">
-✨ Always learning • Always building • Always improving ✨
-</p>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hassansohail4u) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hassansohail4u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hassan-sohail) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hassansohail4u) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassansohail4u2@gmail.com) 
@@ -56,4 +52,8 @@ I have built a real-world platform that handled 1,300+ user registrations and ma
 ---
 [![](https://visitcount.itsvg.in/api?id=hassansohail4u&icon=1&color=0)](https://visitcount.itsvg.in)
 
+---
 
+<p align="center">
+✨ Always learning • Always building • Always improving ✨
+</p>
